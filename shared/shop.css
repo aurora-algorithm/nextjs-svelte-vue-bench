@@ -1,0 +1,14 @@
+* { box-sizing: border-box; }
+body { margin: 0; font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif; background: #f6f6f4; color: #1d1d1f; }
+.shop { max-width: 1100px; margin: 0 auto; padding: 24px 16px; }
+.shop h1 { margin: 0 0 16px; font-size: 32px; }
+.search { width: 100%; padding: 12px 14px; font-size: 18px; border: 1px solid #c9c9c4; border-radius: 10px; background: #fff; }
+.bar { display: flex; align-items: center; gap: 12px; margin: 16px 0; }
+.count { flex: 1; color: #55554f; }
+.bar button { padding: 10px 16px; font-size: 16px; border: 0; border-radius: 10px; background: #1d1d1f; color: #fff; cursor: pointer; }
+.grid { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 14px; }
+.card { background: #fff; border-radius: 12px; padding: 12px; }
+.card img { display: block; width: 100%; height: auto; }
+.card h2 { margin: 10px 0 6px; font-size: 16px; }
+.price { font-weight: 700; margin-right: 8px; }
+.rating { color: #8a6d00; font-size: 14px; }

@@ -1,0 +1,71 @@
+{
+  "versions": {
+    "node": "v24.13.0",
+    "oha": "oha 1.16.0",
+    "packages": {
+      "next:next": "16.4.6",
+      "next:react": "19.3.1",
+      "next:react-dom": "19.3.1",
+      "svelte:@sveltejs/kit": "3.1.1",
+      "svelte:svelte": "5.57.3",
+      "svelte:vite": "8.3.7",
+      "svelte:@sveltejs/adapter-node": "6.0.1",
+      "nuxt:nuxt": "4.6.4",
+      "nuxt:vue": "3.5.45",
+      "nuxt:nitropack": "2.13.6",
+      "nuxt:vite": "8.3.7"
+    },
+    "os": "Windows-11-10.0.26200-SP0",
+    "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+    "power_plan": "Power Scheme GUID: 381b4222-f694-41f0-9685-ff5bb260df2e  (Balanced)"
+  },
+  "rounds": 5,
+  "sides": [
+    "next",
+    "svelte",
+    "nuxt"
+  ],
+  "build_cpus": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "server_cpus": [
+    0,
+    2,
+    4,
+    6
+  ],
+  "oha_cpus": [
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "connections": 64,
+  "seconds_scale": 1.0,
+  "browser_runs": 10,
+  "gate": {
+    "mean": 12.0,
+    "max": 60.0
+  },
+  "started": "Mon Nov  9 22:55:19 2026",
+  "finished": "Mon Nov  9 23:12:05 2026"
+}

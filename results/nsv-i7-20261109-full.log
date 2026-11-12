@@ -1,0 +1,63 @@
+22:55:19 waiting for a quiet machine (up to 4 h)
+22:55:24 round 1 (recorded)
+22:55:31   next   build    2.6 s
+22:56:05   next   ssr      572 req/s  p99   141.7 ms  mem  393.4 MB
+22:56:25   next   browser ready    352 ms  create    217 ms  update     77 ms
+22:56:33   svelte build    3.0 s
+22:57:07   svelte ssr    1,878 req/s  p99   146.1 ms  mem  306.1 MB
+22:57:23   svelte browser ready    246 ms  create    162 ms  update     47 ms
+22:57:33   nuxt   build    4.3 s
+22:58:07   nuxt   ssr    1,072 req/s  p99    88.3 ms  mem  367.2 MB
+22:58:24   nuxt   browser ready    250 ms  create    116 ms  update     51 ms
+22:58:24 round 2 (recorded)
+22:58:32   svelte build    2.9 s
+22:59:06   svelte ssr    1,939 req/s  p99   141.9 ms  mem  345.7 MB
+22:59:17   svelte browser ready    243 ms  create    163 ms  update     44 ms
+22:59:27   nuxt   build    4.1 s
+23:00:01   nuxt   ssr    1,014 req/s  p99    89.6 ms  mem  385.2 MB
+23:00:12   nuxt   browser ready    248 ms  create    139 ms  update     55 ms
+23:00:20   next   build    2.4 s
+23:00:54   next   ssr      547 req/s  p99   149.7 ms  mem  398.6 MB
+23:01:07   next   browser ready    352 ms  create    206 ms  update     70 ms
+23:01:08 round 3 (recorded)
+23:01:17   nuxt   build    4.2 s
+23:01:51   nuxt   ssr    1,022 req/s  p99    88.8 ms  mem  381.2 MB
+23:02:02   nuxt   browser ready    259 ms  create    140 ms  update     54 ms
+23:02:10   next   build    2.4 s
+23:02:44   next   ssr      573 req/s  p99   136.0 ms  mem  363.8 MB
+23:02:57   next   browser ready    335 ms  create    194 ms  update     62 ms
+23:03:05   svelte build    2.8 s
+23:03:39   svelte ssr    1,991 req/s  p99   168.5 ms  mem  347.6 MB
+23:03:50   svelte browser ready    251 ms  create    163 ms  update     47 ms
+23:03:51 round 4 (recorded)
+23:03:58   next   build    2.5 s
+23:04:32   next   ssr      568 req/s  p99   138.2 ms  mem  399.2 MB
+23:04:45   next   browser ready    339 ms  create    191 ms  update     68 ms
+23:04:53   svelte build    2.8 s
+23:05:27   svelte ssr    1,899 req/s  p99   176.6 ms  mem  290.6 MB
+23:05:38   svelte browser ready    242 ms  create    168 ms  update     46 ms
+23:05:48   nuxt   build    4.2 s
+23:06:22   nuxt   ssr    1,038 req/s  p99    87.2 ms  mem  369.7 MB
+23:06:33   nuxt   browser ready    252 ms  create    136 ms  update     53 ms
+23:06:34 round 5 (recorded)
+23:06:42   svelte build    2.8 s
+23:07:16   svelte ssr    1,924 req/s  p99   180.8 ms  mem  328.1 MB
+23:07:27   svelte browser ready    256 ms  create    177 ms  update     52 ms
+23:07:37   nuxt   build    4.1 s
+23:08:11   nuxt   ssr    1,043 req/s  p99    76.4 ms  mem  407.8 MB
+23:08:22   nuxt   browser ready    251 ms  create    140 ms  update     54 ms
+23:08:30   next   build    2.5 s
+23:09:04   next   ssr      582 req/s  p99   133.8 ms  mem  359.5 MB
+23:09:17   next   browser ready    338 ms  create    193 ms  update     69 ms
+23:09:17 round 6 (plain)
+23:09:26   nuxt   build    4.1 s
+23:10:00   nuxt   ssr    1,042 req/s  p99    86.5 ms  mem  359.5 MB
+23:10:13   nuxt   browser ready    241 ms  create    138 ms  update     51 ms
+23:10:21   next   build    2.5 s
+23:10:55   next   ssr      566 req/s  p99   143.2 ms  mem  386.7 MB
+23:11:10   next   browser ready    334 ms  create    198 ms  update     70 ms
+23:11:18   svelte build    2.8 s
+23:11:52   svelte ssr    1,871 req/s  p99   101.3 ms  mem  326.7 MB
+23:12:05   svelte browser ready    257 ms  create    176 ms  update     56 ms
+23:12:05 done
+session exit 0 23:12:05

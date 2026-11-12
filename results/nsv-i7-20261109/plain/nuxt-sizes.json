@@ -1,0 +1,104 @@
+{
+ "page": {
+  "path": "/",
+  "files": [
+   {
+    "url": "/_nuxt/lrlsgn49.js",
+    "has": [
+     "nuxt"
+    ],
+    "raw": 16546,
+    "gzip": 6394,
+    "brotli": 5841
+   },
+   {
+    "url": "/_nuxt/DAiTO8vk.js",
+    "has": [],
+    "raw": 13561,
+    "gzip": 5336,
+    "brotli": 4923
+   },
+   {
+    "url": "/_nuxt/pjqW2QgU.js",
+    "has": [],
+    "raw": 28889,
+    "gzip": 11649,
+    "brotli": 10553
+   },
+   {
+    "url": "/_nuxt/o9HT4FIA.js",
+    "has": [
+     "nuxt"
+    ],
+    "raw": 67988,
+    "gzip": 24886,
+    "brotli": 22526
+   },
+   {
+    "url": "/_nuxt/D7eIBLDi.js",
+    "has": [
+     "vue"
+    ],
+    "raw": 77992,
+    "gzip": 29793,
+    "brotli": 27105
+   }
+  ],
+  "raw": 204976,
+  "gzip": 78058,
+  "brotli": 70948,
+  "html_raw": 36142,
+  "html_gzip": 6256
+ },
+ "hello": {
+  "path": "/hello",
+  "files": [
+   {
+    "url": "/_nuxt/CHRyyTEL.js",
+    "has": [],
+    "raw": 206,
+    "gzip": 188,
+    "brotli": 156
+   },
+   {
+    "url": "/_nuxt/lrlsgn49.js",
+    "has": [
+     "nuxt"
+    ],
+    "raw": 16546,
+    "gzip": 6394,
+    "brotli": 5841
+   },
+   {
+    "url": "/_nuxt/pjqW2QgU.js",
+    "has": [],
+    "raw": 28889,
+    "gzip": 11649,
+    "brotli": 10553
+   },
+   {
+    "url": "/_nuxt/o9HT4FIA.js",
+    "has": [
+     "nuxt"
+    ],
+    "raw": 67988,
+    "gzip": 24886,
+    "brotli": 22526
+   },
+   {
+    "url": "/_nuxt/D7eIBLDi.js",
+    "has": [
+     "vue"
+    ],
+    "raw": 77992,
+    "gzip": 29793,
+    "brotli": 27105
+   }
+  ],
+  "raw": 191621,
+  "gzip": 72910,
+  "brotli": 66181,
+  "html_raw": 1607,
+  "html_gzip": 699
+ }
+}

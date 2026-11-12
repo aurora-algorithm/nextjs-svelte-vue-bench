@@ -1,0 +1,902 @@
+[
+ {
+  "id": 1,
+  "name": "Classic Headphones",
+  "kind": "Headphones",
+  "priceCents": 999,
+  "rating": 3,
+  "reviews": 12,
+  "image": "/img/headphones.svg"
+ },
+ {
+  "id": 2,
+  "name": "Classic Backpack",
+  "kind": "Backpack",
+  "priceCents": 8918,
+  "rating": 4.6,
+  "reviews": 143,
+  "image": "/img/backpack.svg"
+ },
+ {
+  "id": 3,
+  "name": "Classic Keyboard",
+  "kind": "Keyboard",
+  "priceCents": 16837,
+  "rating": 4.1,
+  "reviews": 274,
+  "image": "/img/keyboard.svg"
+ },
+ {
+  "id": 4,
+  "name": "Classic Desk lamp",
+  "kind": "Desk lamp",
+  "priceCents": 5756,
+  "rating": 3.6,
+  "reviews": 405,
+  "image": "/img/desk-lamp.svg"
+ },
+ {
+  "id": 5,
+  "name": "Classic Water bottle",
+  "kind": "Water bottle",
+  "priceCents": 13675,
+  "rating": 3.1,
+  "reviews": 536,
+  "image": "/img/water-bottle.svg"
+ },
+ {
+  "id": 6,
+  "name": "Classic Sneakers",
+  "kind": "Sneakers",
+  "priceCents": 2594,
+  "rating": 4.7,
+  "reviews": 667,
+  "image": "/img/sneakers.svg"
+ },
+ {
+  "id": 7,
+  "name": "Classic Mouse",
+  "kind": "Mouse",
+  "priceCents": 10513,
+  "rating": 4.2,
+  "reviews": 798,
+  "image": "/img/mouse.svg"
+ },
+ {
+  "id": 8,
+  "name": "Classic Notebook",
+  "kind": "Notebook",
+  "priceCents": 18432,
+  "rating": 3.7,
+  "reviews": 929,
+  "image": "/img/notebook.svg"
+ },
+ {
+  "id": 9,
+  "name": "Classic Speaker",
+  "kind": "Speaker",
+  "priceCents": 7351,
+  "rating": 3.2,
+  "reviews": 80,
+  "image": "/img/speaker.svg"
+ },
+ {
+  "id": 10,
+  "name": "Classic Monitor stand",
+  "kind": "Monitor stand",
+  "priceCents": 15270,
+  "rating": 4.8,
+  "reviews": 211,
+  "image": "/img/monitor-stand.svg"
+ },
+ {
+  "id": 11,
+  "name": "Pro Headphones",
+  "kind": "Headphones",
+  "priceCents": 4189,
+  "rating": 4.3,
+  "reviews": 342,
+  "image": "/img/headphones.svg"
+ },
+ {
+  "id": 12,
+  "name": "Pro Backpack",
+  "kind": "Backpack",
+  "priceCents": 12108,
+  "rating": 3.8,
+  "reviews": 473,
+  "image": "/img/backpack.svg"
+ },
+ {
+  "id": 13,
+  "name": "Pro Keyboard",
+  "kind": "Keyboard",
+  "priceCents": 1027,
+  "rating": 3.3,
+  "reviews": 604,
+  "image": "/img/keyboard.svg"
+ },
+ {
+  "id": 14,
+  "name": "Pro Desk lamp",
+  "kind": "Desk lamp",
+  "priceCents": 8946,
+  "rating": 4.9,
+  "reviews": 735,
+  "image": "/img/desk-lamp.svg"
+ },
+ {
+  "id": 15,
+  "name": "Pro Water bottle",
+  "kind": "Water bottle",
+  "priceCents": 16865,
+  "rating": 4.4,
+  "reviews": 866,
+  "image": "/img/water-bottle.svg"
+ },
+ {
+  "id": 16,
+  "name": "Pro Sneakers",
+  "kind": "Sneakers",
+  "priceCents": 5784,
+  "rating": 3.9,
+  "reviews": 17,
+  "image": "/img/sneakers.svg"
+ },
+ {
+  "id": 17,
+  "name": "Pro Mouse",
+  "kind": "Mouse",
+  "priceCents": 13703,
+  "rating": 3.4,
+  "reviews": 148,
+  "image": "/img/mouse.svg"
+ },
+ {
+  "id": 18,
+  "name": "Pro Notebook",
+  "kind": "Notebook",
+  "priceCents": 2622,
+  "rating": 5,
+  "reviews": 279,
+  "image": "/img/notebook.svg"
+ },
+ {
+  "id": 19,
+  "name": "Pro Speaker",
+  "kind": "Speaker",
+  "priceCents": 10541,
+  "rating": 4.5,
+  "reviews": 410,
+  "image": "/img/speaker.svg"
+ },
+ {
+  "id": 20,
+  "name": "Pro Monitor stand",
+  "kind": "Monitor stand",
+  "priceCents": 18460,
+  "rating": 4,
+  "reviews": 541,
+  "image": "/img/monitor-stand.svg"
+ },
+ {
+  "id": 21,
+  "name": "Mini Headphones",
+  "kind": "Headphones",
+  "priceCents": 7379,
+  "rating": 3.5,
+  "reviews": 672,
+  "image": "/img/headphones.svg"
+ },
+ {
+  "id": 22,
+  "name": "Mini Backpack",
+  "kind": "Backpack",
+  "priceCents": 15298,
+  "rating": 3,
+  "reviews": 803,
+  "image": "/img/backpack.svg"
+ },
+ {
+  "id": 23,
+  "name": "Mini Keyboard",
+  "kind": "Keyboard",
+  "priceCents": 4217,
+  "rating": 4.6,
+  "reviews": 934,
+  "image": "/img/keyboard.svg"
+ },
+ {
+  "id": 24,
+  "name": "Mini Desk lamp",
+  "kind": "Desk lamp",
+  "priceCents": 12136,
+  "rating": 4.1,
+  "reviews": 85,
+  "image": "/img/desk-lamp.svg"
+ },
+ {
+  "id": 25,
+  "name": "Mini Water bottle",
+  "kind": "Water bottle",
+  "priceCents": 1055,
+  "rating": 3.6,
+  "reviews": 216,
+  "image": "/img/water-bottle.svg"
+ },
+ {
+  "id": 26,
+  "name": "Mini Sneakers",
+  "kind": "Sneakers",
+  "priceCents": 8974,
+  "rating": 3.1,
+  "reviews": 347,
+  "image": "/img/sneakers.svg"
+ },
+ {
+  "id": 27,
+  "name": "Mini Mouse",
+  "kind": "Mouse",
+  "priceCents": 16893,
+  "rating": 4.7,
+  "reviews": 478,
+  "image": "/img/mouse.svg"
+ },
+ {
+  "id": 28,
+  "name": "Mini Notebook",
+  "kind": "Notebook",
+  "priceCents": 5812,
+  "rating": 4.2,
+  "reviews": 609,
+  "image": "/img/notebook.svg"
+ },
+ {
+  "id": 29,
+  "name": "Mini Speaker",
+  "kind": "Speaker",
+  "priceCents": 13731,
+  "rating": 3.7,
+  "reviews": 740,
+  "image": "/img/speaker.svg"
+ },
+ {
+  "id": 30,
+  "name": "Mini Monitor stand",
+  "kind": "Monitor stand",
+  "priceCents": 2650,
+  "rating": 3.2,
+  "reviews": 871,
+  "image": "/img/monitor-stand.svg"
+ },
+ {
+  "id": 31,
+  "name": "Travel Headphones",
+  "kind": "Headphones",
+  "priceCents": 10569,
+  "rating": 4.8,
+  "reviews": 22,
+  "image": "/img/headphones.svg"
+ },
+ {
+  "id": 32,
+  "name": "Travel Backpack",
+  "kind": "Backpack",
+  "priceCents": 18488,
+  "rating": 4.3,
+  "reviews": 153,
+  "image": "/img/backpack.svg"
+ },
+ {
+  "id": 33,
+  "name": "Travel Keyboard",
+  "kind": "Keyboard",
+  "priceCents": 7407,
+  "rating": 3.8,
+  "reviews": 284,
+  "image": "/img/keyboard.svg"
+ },
+ {
+  "id": 34,
+  "name": "Travel Desk lamp",
+  "kind": "Desk lamp",
+  "priceCents": 15326,
+  "rating": 3.3,
+  "reviews": 415,
+  "image": "/img/desk-lamp.svg"
+ },
+ {
+  "id": 35,
+  "name": "Travel Water bottle",
+  "kind": "Water bottle",
+  "priceCents": 4245,
+  "rating": 4.9,
+  "reviews": 546,
+  "image": "/img/water-bottle.svg"
+ },
+ {
+  "id": 36,
+  "name": "Travel Sneakers",
+  "kind": "Sneakers",
+  "priceCents": 12164,
+  "rating": 4.4,
+  "reviews": 677,
+  "image": "/img/sneakers.svg"
+ },
+ {
+  "id": 37,
+  "name": "Travel Mouse",
+  "kind": "Mouse",
+  "priceCents": 1083,
+  "rating": 3.9,
+  "reviews": 808,
+  "image": "/img/mouse.svg"
+ },
+ {
+  "id": 38,
+  "name": "Travel Notebook",
+  "kind": "Notebook",
+  "priceCents": 9002,
+  "rating": 3.4,
+  "reviews": 939,
+  "image": "/img/notebook.svg"
+ },
+ {
+  "id": 39,
+  "name": "Travel Speaker",
+  "kind": "Speaker",
+  "priceCents": 16921,
+  "rating": 5,
+  "reviews": 90,
+  "image": "/img/speaker.svg"
+ },
+ {
+  "id": 40,
+  "name": "Travel Monitor stand",
+  "kind": "Monitor stand",
+  "priceCents": 5840,
+  "rating": 4.5,
+  "reviews": 221,
+  "image": "/img/monitor-stand.svg"
+ },
+ {
+  "id": 41,
+  "name": "Studio Headphones",
+  "kind": "Headphones",
+  "priceCents": 13759,
+  "rating": 4,
+  "reviews": 352,
+  "image": "/img/headphones.svg"
+ },
+ {
+  "id": 42,
+  "name": "Studio Backpack",
+  "kind": "Backpack",
+  "priceCents": 2678,
+  "rating": 3.5,
+  "reviews": 483,
+  "image": "/img/backpack.svg"
+ },
+ {
+  "id": 43,
+  "name": "Studio Keyboard",
+  "kind": "Keyboard",
+  "priceCents": 10597,
+  "rating": 3,
+  "reviews": 614,
+  "image": "/img/keyboard.svg"
+ },
+ {
+  "id": 44,
+  "name": "Studio Desk lamp",
+  "kind": "Desk lamp",
+  "priceCents": 18516,
+  "rating": 4.6,
+  "reviews": 745,
+  "image": "/img/desk-lamp.svg"
+ },
+ {
+  "id": 45,
+  "name": "Studio Water bottle",
+  "kind": "Water bottle",
+  "priceCents": 7435,
+  "rating": 4.1,
+  "reviews": 876,
+  "image": "/img/water-bottle.svg"
+ },
+ {
+  "id": 46,
+  "name": "Studio Sneakers",
+  "kind": "Sneakers",
+  "priceCents": 15354,
+  "rating": 3.6,
+  "reviews": 27,
+  "image": "/img/sneakers.svg"
+ },
+ {
+  "id": 47,
+  "name": "Studio Mouse",
+  "kind": "Mouse",
+  "priceCents": 4273,
+  "rating": 3.1,
+  "reviews": 158,
+  "image": "/img/mouse.svg"
+ },
+ {
+  "id": 48,
+  "name": "Studio Notebook",
+  "kind": "Notebook",
+  "priceCents": 12192,
+  "rating": 4.7,
+  "reviews": 289,
+  "image": "/img/notebook.svg"
+ },
+ {
+  "id": 49,
+  "name": "Studio Speaker",
+  "kind": "Speaker",
+  "priceCents": 1111,
+  "rating": 4.2,
+  "reviews": 420,
+  "image": "/img/speaker.svg"
+ },
+ {
+  "id": 50,
+  "name": "Studio Monitor stand",
+  "kind": "Monitor stand",
+  "priceCents": 9030,
+  "rating": 3.7,
+  "reviews": 551,
+  "image": "/img/monitor-stand.svg"
+ },
+ {
+  "id": 51,
+  "name": "Everyday Headphones",
+  "kind": "Headphones",
+  "priceCents": 16949,
+  "rating": 3.2,
+  "reviews": 682,
+  "image": "/img/headphones.svg"
+ },
+ {
+  "id": 52,
+  "name": "Everyday Backpack",
+  "kind": "Backpack",
+  "priceCents": 5868,
+  "rating": 4.8,
+  "reviews": 813,
+  "image": "/img/backpack.svg"
+ },
+ {
+  "id": 53,
+  "name": "Everyday Keyboard",
+  "kind": "Keyboard",
+  "priceCents": 13787,
+  "rating": 4.3,
+  "reviews": 944,
+  "image": "/img/keyboard.svg"
+ },
+ {
+  "id": 54,
+  "name": "Everyday Desk lamp",
+  "kind": "Desk lamp",
+  "priceCents": 2706,
+  "rating": 3.8,
+  "reviews": 95,
+  "image": "/img/desk-lamp.svg"
+ },
+ {
+  "id": 55,
+  "name": "Everyday Water bottle",
+  "kind": "Water bottle",
+  "priceCents": 10625,
+  "rating": 3.3,
+  "reviews": 226,
+  "image": "/img/water-bottle.svg"
+ },
+ {
+  "id": 56,
+  "name": "Everyday Sneakers",
+  "kind": "Sneakers",
+  "priceCents": 18544,
+  "rating": 4.9,
+  "reviews": 357,
+  "image": "/img/sneakers.svg"
+ },
+ {
+  "id": 57,
+  "name": "Everyday Mouse",
+  "kind": "Mouse",
+  "priceCents": 7463,
+  "rating": 4.4,
+  "reviews": 488,
+  "image": "/img/mouse.svg"
+ },
+ {
+  "id": 58,
+  "name": "Everyday Notebook",
+  "kind": "Notebook",
+  "priceCents": 15382,
+  "rating": 3.9,
+  "reviews": 619,
+  "image": "/img/notebook.svg"
+ },
+ {
+  "id": 59,
+  "name": "Everyday Speaker",
+  "kind": "Speaker",
+  "priceCents": 4301,
+  "rating": 3.4,
+  "reviews": 750,
+  "image": "/img/speaker.svg"
+ },
+ {
+  "id": 60,
+  "name": "Everyday Monitor stand",
+  "kind": "Monitor stand",
+  "priceCents": 12220,
+  "rating": 5,
+  "reviews": 881,
+  "image": "/img/monitor-stand.svg"
+ },
+ {
+  "id": 61,
+  "name": "Max Headphones",
+  "kind": "Headphones",
+  "priceCents": 1139,
+  "rating": 4.5,
+  "reviews": 32,
+  "image": "/img/headphones.svg"
+ },
+ {
+  "id": 62,
+  "name": "Max Backpack",
+  "kind": "Backpack",
+  "priceCents": 9058,
+  "rating": 4,
+  "reviews": 163,
+  "image": "/img/backpack.svg"
+ },
+ {
+  "id": 63,
+  "name": "Max Keyboard",
+  "kind": "Keyboard",
+  "priceCents": 16977,
+  "rating": 3.5,
+  "reviews": 294,
+  "image": "/img/keyboard.svg"
+ },
+ {
+  "id": 64,
+  "name": "Max Desk lamp",
+  "kind": "Desk lamp",
+  "priceCents": 5896,
+  "rating": 3,
+  "reviews": 425,
+  "image": "/img/desk-lamp.svg"
+ },
+ {
+  "id": 65,
+  "name": "Max Water bottle",
+  "kind": "Water bottle",
+  "priceCents": 13815,
+  "rating": 4.6,
+  "reviews": 556,
+  "image": "/img/water-bottle.svg"
+ },
+ {
+  "id": 66,
+  "name": "Max Sneakers",
+  "kind": "Sneakers",
+  "priceCents": 2734,
+  "rating": 4.1,
+  "reviews": 687,
+  "image": "/img/sneakers.svg"
+ },
+ {
+  "id": 67,
+  "name": "Max Mouse",
+  "kind": "Mouse",
+  "priceCents": 10653,
+  "rating": 3.6,
+  "reviews": 818,
+  "image": "/img/mouse.svg"
+ },
+ {
+  "id": 68,
+  "name": "Max Notebook",
+  "kind": "Notebook",
+  "priceCents": 18572,
+  "rating": 3.1,
+  "reviews": 949,
+  "image": "/img/notebook.svg"
+ },
+ {
+  "id": 69,
+  "name": "Max Speaker",
+  "kind": "Speaker",
+  "priceCents": 7491,
+  "rating": 4.7,
+  "reviews": 100,
+  "image": "/img/speaker.svg"
+ },
+ {
+  "id": 70,
+  "name": "Max Monitor stand",
+  "kind": "Monitor stand",
+  "priceCents": 15410,
+  "rating": 4.2,
+  "reviews": 231,
+  "image": "/img/monitor-stand.svg"
+ },
+ {
+  "id": 71,
+  "name": "Air Headphones",
+  "kind": "Headphones",
+  "priceCents": 4329,
+  "rating": 3.7,
+  "reviews": 362,
+  "image": "/img/headphones.svg"
+ },
+ {
+  "id": 72,
+  "name": "Air Backpack",
+  "kind": "Backpack",
+  "priceCents": 12248,
+  "rating": 3.2,
+  "reviews": 493,
+  "image": "/img/backpack.svg"
+ },
+ {
+  "id": 73,
+  "name": "Air Keyboard",
+  "kind": "Keyboard",
+  "priceCents": 1167,
+  "rating": 4.8,
+  "reviews": 624,
+  "image": "/img/keyboard.svg"
+ },
+ {
+  "id": 74,
+  "name": "Air Desk lamp",
+  "kind": "Desk lamp",
+  "priceCents": 9086,
+  "rating": 4.3,
+  "reviews": 755,
+  "image": "/img/desk-lamp.svg"
+ },
+ {
+  "id": 75,
+  "name": "Air Water bottle",
+  "kind": "Water bottle",
+  "priceCents": 17005,
+  "rating": 3.8,
+  "reviews": 886,
+  "image": "/img/water-bottle.svg"
+ },
+ {
+  "id": 76,
+  "name": "Air Sneakers",
+  "kind": "Sneakers",
+  "priceCents": 5924,
+  "rating": 3.3,
+  "reviews": 37,
+  "image": "/img/sneakers.svg"
+ },
+ {
+  "id": 77,
+  "name": "Air Mouse",
+  "kind": "Mouse",
+  "priceCents": 13843,
+  "rating": 4.9,
+  "reviews": 168,
+  "image": "/img/mouse.svg"
+ },
+ {
+  "id": 78,
+  "name": "Air Notebook",
+  "kind": "Notebook",
+  "priceCents": 2762,
+  "rating": 4.4,
+  "reviews": 299,
+  "image": "/img/notebook.svg"
+ },
+ {
+  "id": 79,
+  "name": "Air Speaker",
+  "kind": "Speaker",
+  "priceCents": 10681,
+  "rating": 3.9,
+  "reviews": 430,
+  "image": "/img/speaker.svg"
+ },
+ {
+  "id": 80,
+  "name": "Air Monitor stand",
+  "kind": "Monitor stand",
+  "priceCents": 18600,
+  "rating": 3.4,
+  "reviews": 561,
+  "image": "/img/monitor-stand.svg"
+ },
+ {
+  "id": 81,
+  "name": "Urban Headphones",
+  "kind": "Headphones",
+  "priceCents": 7519,
+  "rating": 5,
+  "reviews": 692,
+  "image": "/img/headphones.svg"
+ },
+ {
+  "id": 82,
+  "name": "Urban Backpack",
+  "kind": "Backpack",
+  "priceCents": 15438,
+  "rating": 4.5,
+  "reviews": 823,
+  "image": "/img/backpack.svg"
+ },
+ {
+  "id": 83,
+  "name": "Urban Keyboard",
+  "kind": "Keyboard",
+  "priceCents": 4357,
+  "rating": 4,
+  "reviews": 954,
+  "image": "/img/keyboard.svg"
+ },
+ {
+  "id": 84,
+  "name": "Urban Desk lamp",
+  "kind": "Desk lamp",
+  "priceCents": 12276,
+  "rating": 3.5,
+  "reviews": 105,
+  "image": "/img/desk-lamp.svg"
+ },
+ {
+  "id": 85,
+  "name": "Urban Water bottle",
+  "kind": "Water bottle",
+  "priceCents": 1195,
+  "rating": 3,
+  "reviews": 236,
+  "image": "/img/water-bottle.svg"
+ },
+ {
+  "id": 86,
+  "name": "Urban Sneakers",
+  "kind": "Sneakers",
+  "priceCents": 9114,
+  "rating": 4.6,
+  "reviews": 367,
+  "image": "/img/sneakers.svg"
+ },
+ {
+  "id": 87,
+  "name": "Urban Mouse",
+  "kind": "Mouse",
+  "priceCents": 17033,
+  "rating": 4.1,
+  "reviews": 498,
+  "image": "/img/mouse.svg"
+ },
+ {
+  "id": 88,
+  "name": "Urban Notebook",
+  "kind": "Notebook",
+  "priceCents": 5952,
+  "rating": 3.6,
+  "reviews": 629,
+  "image": "/img/notebook.svg"
+ },
+ {
+  "id": 89,
+  "name": "Urban Speaker",
+  "kind": "Speaker",
+  "priceCents": 13871,
+  "rating": 3.1,
+  "reviews": 760,
+  "image": "/img/speaker.svg"
+ },
+ {
+  "id": 90,
+  "name": "Urban Monitor stand",
+  "kind": "Monitor stand",
+  "priceCents": 2790,
+  "rating": 4.7,
+  "reviews": 891,
+  "image": "/img/monitor-stand.svg"
+ },
+ {
+  "id": 91,
+  "name": "Lite Headphones",
+  "kind": "Headphones",
+  "priceCents": 10709,
+  "rating": 4.2,
+  "reviews": 42,
+  "image": "/img/headphones.svg"
+ },
+ {
+  "id": 92,
+  "name": "Lite Backpack",
+  "kind": "Backpack",
+  "priceCents": 18628,
+  "rating": 3.7,
+  "reviews": 173,
+  "image": "/img/backpack.svg"
+ },
+ {
+  "id": 93,
+  "name": "Lite Keyboard",
+  "kind": "Keyboard",
+  "priceCents": 7547,
+  "rating": 3.2,
+  "reviews": 304,
+  "image": "/img/keyboard.svg"
+ },
+ {
+  "id": 94,
+  "name": "Lite Desk lamp",
+  "kind": "Desk lamp",
+  "priceCents": 15466,
+  "rating": 4.8,
+  "reviews": 435,
+  "image": "/img/desk-lamp.svg"
+ },
+ {
+  "id": 95,
+  "name": "Lite Water bottle",
+  "kind": "Water bottle",
+  "priceCents": 4385,
+  "rating": 4.3,
+  "reviews": 566,
+  "image": "/img/water-bottle.svg"
+ },
+ {
+  "id": 96,
+  "name": "Lite Sneakers",
+  "kind": "Sneakers",
+  "priceCents": 12304,
+  "rating": 3.8,
+  "reviews": 697,
+  "image": "/img/sneakers.svg"
+ },
+ {
+  "id": 97,
+  "name": "Lite Mouse",
+  "kind": "Mouse",
+  "priceCents": 1223,
+  "rating": 3.3,
+  "reviews": 828,
+  "image": "/img/mouse.svg"
+ },
+ {
+  "id": 98,
+  "name": "Lite Notebook",
+  "kind": "Notebook",
+  "priceCents": 9142,
+  "rating": 4.9,
+  "reviews": 959,
+  "image": "/img/notebook.svg"
+ },
+ {
+  "id": 99,
+  "name": "Lite Speaker",
+  "kind": "Speaker",
+  "priceCents": 17061,
+  "rating": 4.4,
+  "reviews": 110,
+  "image": "/img/speaker.svg"
+ },
+ {
+  "id": 100,
+  "name": "Lite Monitor stand",
+  "kind": "Monitor stand",
+  "priceCents": 5980,
+  "rating": 3.9,
+  "reviews": 241,
+  "image": "/img/monitor-stand.svg"
+ }
+]

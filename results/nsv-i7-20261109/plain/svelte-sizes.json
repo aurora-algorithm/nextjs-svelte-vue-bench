@@ -1,0 +1,176 @@
+{
+ "page": {
+  "path": "/",
+  "files": [
+   {
+    "url": "/_app/immutable/entry/start.DQ5wgSSn.js",
+    "has": [],
+    "raw": 522,
+    "gzip": 308,
+    "brotli": 308
+   },
+   {
+    "url": "/_app/immutable/entry/payload.DSmR2FwN.js",
+    "has": [],
+    "raw": 65,
+    "gzip": 77,
+    "brotli": 60
+   },
+   {
+    "url": "/_app/immutable/chunks/DclECHGd.js",
+    "has": [],
+    "raw": 1630,
+    "gzip": 828,
+    "brotli": 714
+   },
+   {
+    "url": "/_app/immutable/entry/app.DaNkHXli.js",
+    "has": [],
+    "raw": 1214,
+    "gzip": 587,
+    "brotli": 546
+   },
+   {
+    "url": "/_app/immutable/nodes/2.CzJjEKl7.js",
+    "has": [],
+    "raw": 1635,
+    "gzip": 974,
+    "brotli": 815
+   },
+   {
+    "url": "/_app/immutable/nodes/0.BT_1y4jS.js",
+    "has": [],
+    "raw": 146,
+    "gzip": 139,
+    "brotli": 110
+   },
+   {
+    "url": "/_app/immutable/chunks/Ca6iBMBk.js",
+    "has": [
+     "svelte"
+    ],
+    "raw": 4346,
+    "gzip": 1957,
+    "brotli": 1740
+   },
+   {
+    "url": "/_app/immutable/chunks/BBXhoXCn.js",
+    "has": [
+     "svelte"
+    ],
+    "raw": 38411,
+    "gzip": 14762,
+    "brotli": 13422
+   },
+   {
+    "url": "/_app/immutable/chunks/CDxZlCcw.js",
+    "has": [
+     "svelte",
+     "sveltekit"
+    ],
+    "raw": 42329,
+    "gzip": 15475,
+    "brotli": 14099
+   },
+   {
+    "url": "/_app/immutable/nodes/1.D7BU8Tsj.js",
+    "has": [],
+    "raw": 322,
+    "gzip": 244,
+    "brotli": 207
+   }
+  ],
+  "raw": 90620,
+  "gzip": 35351,
+  "brotli": 32021,
+  "html_raw": 35610,
+  "html_gzip": 4629
+ },
+ "hello": {
+  "path": "/hello",
+  "files": [
+   {
+    "url": "/_app/immutable/entry/start.DQ5wgSSn.js",
+    "has": [],
+    "raw": 522,
+    "gzip": 308,
+    "brotli": 308
+   },
+   {
+    "url": "/_app/immutable/entry/payload.DSmR2FwN.js",
+    "has": [],
+    "raw": 65,
+    "gzip": 77,
+    "brotli": 60
+   },
+   {
+    "url": "/_app/immutable/chunks/DclECHGd.js",
+    "has": [],
+    "raw": 1630,
+    "gzip": 828,
+    "brotli": 714
+   },
+   {
+    "url": "/_app/immutable/entry/app.DaNkHXli.js",
+    "has": [],
+    "raw": 1214,
+    "gzip": 587,
+    "brotli": 546
+   },
+   {
+    "url": "/_app/immutable/chunks/Ca6iBMBk.js",
+    "has": [
+     "svelte"
+    ],
+    "raw": 4346,
+    "gzip": 1957,
+    "brotli": 1740
+   },
+   {
+    "url": "/_app/immutable/nodes/0.BT_1y4jS.js",
+    "has": [],
+    "raw": 146,
+    "gzip": 139,
+    "brotli": 110
+   },
+   {
+    "url": "/_app/immutable/nodes/3.B6oymAO5.js",
+    "has": [],
+    "raw": 276,
+    "gzip": 219,
+    "brotli": 187
+   },
+   {
+    "url": "/_app/immutable/chunks/BBXhoXCn.js",
+    "has": [
+     "svelte"
+    ],
+    "raw": 38411,
+    "gzip": 14762,
+    "brotli": 13422
+   },
+   {
+    "url": "/_app/immutable/chunks/CDxZlCcw.js",
+    "has": [
+     "svelte",
+     "sveltekit"
+    ],
+    "raw": 42329,
+    "gzip": 15475,
+    "brotli": 14099
+   },
+   {
+    "url": "/_app/immutable/nodes/1.D7BU8Tsj.js",
+    "has": [],
+    "raw": 322,
+    "gzip": 244,
+    "brotli": 207
+   }
+  ],
+  "raw": 89261,
+  "gzip": 34596,
+  "brotli": 31393,
+  "html_raw": 1723,
+  "html_gzip": 678
+ }
+}

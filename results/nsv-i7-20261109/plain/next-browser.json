@@ -1,0 +1,220 @@
+{
+ "chrome": "157.0.8103.40",
+ "cpu_slowdown": 4,
+ "viewport": {
+  "width": 412,
+  "height": 915
+ },
+ "runs": [
+  {
+   "marks_ms": {
+    "goto": 1794283863146,
+    "ready": 1794283863491,
+    "click_more": 1794283863491,
+    "created": 1794283863691,
+    "click_sale": 1794283863692,
+    "updated": 1794283863765,
+    "end": 1794283863765
+   },
+   "ready_ms": 328.10000002384186,
+   "fcp_ms": 124,
+   "cards": 100,
+   "create_ms": 198,
+   "create_dom_ms": 86,
+   "update_ms": 65.5,
+   "update_dom_ms": 16,
+   "last_price_before": "$68.80",
+   "last_price_after": "$61.92",
+   "count_text": "1000 products"
+  },
+  {
+   "marks_ms": {
+    "goto": 1794283863833,
+    "ready": 1794283864227,
+    "click_more": 1794283864227,
+    "created": 1794283864424,
+    "click_sale": 1794283864426,
+    "updated": 1794283864495,
+    "end": 1794283864495
+   },
+   "ready_ms": 382.0999999642372,
+   "fcp_ms": 136,
+   "cards": 100,
+   "create_ms": 193.5,
+   "create_dom_ms": 82.80000001192093,
+   "update_ms": 65,
+   "update_dom_ms": 14.699999988079071,
+   "last_price_before": "$68.80",
+   "last_price_after": "$61.92",
+   "count_text": "1000 products"
+  },
+  {
+   "marks_ms": {
+    "goto": 1794283864560,
+    "ready": 1794283864907,
+    "click_more": 1794283864907,
+    "created": 1794283865092,
+    "click_sale": 1794283865094,
+    "updated": 1794283865180,
+    "end": 1794283865180
+   },
+   "ready_ms": 332.10000002384186,
+   "fcp_ms": 128,
+   "cards": 100,
+   "create_ms": 183.10000002384186,
+   "create_dom_ms": 79.39999997615814,
+   "update_ms": 82.30000001192093,
+   "update_dom_ms": 20.30000001192093,
+   "last_price_before": "$68.80",
+   "last_price_after": "$61.92",
+   "count_text": "1000 products"
+  },
+  {
+   "marks_ms": {
+    "goto": 1794283865246,
+    "ready": 1794283865606,
+    "click_more": 1794283865606,
+    "created": 1794283865806,
+    "click_sale": 1794283865808,
+    "updated": 1794283865878,
+    "end": 1794283865878
+   },
+   "ready_ms": 345.39999997615814,
+   "fcp_ms": 140,
+   "cards": 100,
+   "create_ms": 198.39999997615814,
+   "create_dom_ms": 84.30000001192093,
+   "update_ms": 65.19999998807907,
+   "update_dom_ms": 15.299999952316284,
+   "last_price_before": "$68.80",
+   "last_price_after": "$61.92",
+   "count_text": "1000 products"
+  },
+  {
+   "marks_ms": {
+    "goto": 1794283865942,
+    "ready": 1794283866276,
+    "click_more": 1794283866276,
+    "created": 1794283866468,
+    "click_sale": 1794283866470,
+    "updated": 1794283866542,
+    "end": 1794283866542
+   },
+   "ready_ms": 319.30000001192093,
+   "fcp_ms": 128,
+   "cards": 100,
+   "create_ms": 190,
+   "create_dom_ms": 81.80000001192093,
+   "update_ms": 66.59999996423721,
+   "update_dom_ms": 15.699999988079071,
+   "last_price_before": "$68.80",
+   "last_price_after": "$61.92",
+   "count_text": "1000 products"
+  },
+  {
+   "marks_ms": {
+    "goto": 1794283866607,
+    "ready": 1794283866956,
+    "click_more": 1794283866956,
+    "created": 1794283867116,
+    "click_sale": 1794283867118,
+    "updated": 1794283867199,
+    "end": 1794283867199
+   },
+   "ready_ms": 332.5,
+   "fcp_ms": 128,
+   "cards": 100,
+   "create_ms": 158.5,
+   "create_dom_ms": 71.89999997615814,
+   "update_ms": 76.60000002384186,
+   "update_dom_ms": 20.100000023841858,
+   "last_price_before": "$68.80",
+   "last_price_after": "$61.92",
+   "count_text": "1000 products"
+  },
+  {
+   "marks_ms": {
+    "goto": 1794283867266,
+    "ready": 1794283867645,
+    "click_more": 1794283867645,
+    "created": 1794283867841,
+    "click_sale": 1794283867843,
+    "updated": 1794283867920,
+    "end": 1794283867920
+   },
+   "ready_ms": 368,
+   "fcp_ms": 136,
+   "cards": 100,
+   "create_ms": 192.30000001192093,
+   "create_dom_ms": 85.80000001192093,
+   "update_ms": 73.60000002384186,
+   "update_dom_ms": 15.5,
+   "last_price_before": "$68.80",
+   "last_price_after": "$61.92",
+   "count_text": "1000 products"
+  },
+  {
+   "marks_ms": {
+    "goto": 1794283867989,
+    "ready": 1794283868344,
+    "click_more": 1794283868344,
+    "created": 1794283868555,
+    "click_sale": 1794283868556,
+    "updated": 1794283868628,
+    "end": 1794283868628
+   },
+   "ready_ms": 344.30000001192093,
+   "fcp_ms": 132,
+   "cards": 100,
+   "create_ms": 206.89999997615814,
+   "create_dom_ms": 88.09999996423721,
+   "update_ms": 65.30000001192093,
+   "update_dom_ms": 16.099999964237213,
+   "last_price_before": "$68.80",
+   "last_price_after": "$61.92",
+   "count_text": "1000 products"
+  },
+  {
+   "marks_ms": {
+    "goto": 1794283868694,
+    "ready": 1794283869041,
+    "click_more": 1794283869041,
+    "created": 1794283869251,
+    "click_sale": 1794283869253,
+    "updated": 1794283869327,
+    "end": 1794283869327
+   },
+   "ready_ms": 334.39999997615814,
+   "fcp_ms": 144,
+   "cards": 100,
+   "create_ms": 207.60000002384186,
+   "create_dom_ms": 103.19999998807907,
+   "update_ms": 70,
+   "update_dom_ms": 18.30000001192093,
+   "last_price_before": "$68.80",
+   "last_price_after": "$61.92",
+   "count_text": "1000 products"
+  },
+  {
+   "marks_ms": {
+    "goto": 1794283869392,
+    "ready": 1794283869742,
+    "click_more": 1794283869742,
+    "created": 1794283869942,
+    "click_sale": 1794283869943,
+    "updated": 1794283870020,
+    "end": 1794283870020
+   },
+   "ready_ms": 332.4000000357628,
+   "fcp_ms": 128,
+   "cards": 100,
+   "create_ms": 197.80000001192093,
+   "create_dom_ms": 86.80000001192093,
+   "update_ms": 73.10000002384186,
+   "update_dom_ms": 17.5,
+   "last_price_before": "$68.80",
+   "last_price_after": "$61.92",
+   "count_text": "1000 products"
+  }
+ ]
+}

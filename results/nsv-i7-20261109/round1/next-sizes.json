@@ -1,0 +1,116 @@
+{
+ "page": {
+  "path": "/",
+  "files": [
+   {
+    "url": "/_next/static/chunks/0taqmdo6q41ma.js",
+    "has": [],
+    "raw": 17031,
+    "gzip": 5951,
+    "brotli": 5220
+   },
+   {
+    "url": "/_next/static/chunks/turbopack-2u1d16houkiyo.js",
+    "has": [],
+    "raw": 9974,
+    "gzip": 3905,
+    "brotli": 3484
+   },
+   {
+    "url": "/_next/static/chunks/1fzhvml5f2jol.js",
+    "has": [],
+    "raw": 1508,
+    "gzip": 788,
+    "brotli": 674
+   },
+   {
+    "url": "/_next/static/chunks/0g96t7qjlj9ox.js",
+    "has": [],
+    "raw": 14000,
+    "gzip": 3510,
+    "brotli": 3137
+   },
+   {
+    "url": "/_next/static/chunks/0yl8ywiphjhzi.js",
+    "has": [
+     "react-dom"
+    ],
+    "raw": 186791,
+    "gzip": 49612,
+    "brotli": 41825
+   },
+   {
+    "url": "/_next/static/chunks/1rikqmm_9jd5q.js",
+    "has": [
+     "react-dom",
+     "next"
+    ],
+    "raw": 229289,
+    "gzip": 71592,
+    "brotli": 61270
+   }
+  ],
+  "raw": 458593,
+  "gzip": 135358,
+  "brotli": 115610,
+  "html_raw": 45323,
+  "html_gzip": 5926
+ },
+ "hello": {
+  "path": "/hello",
+  "files": [
+   {
+    "url": "/_next/static/chunks/0taqmdo6q41ma.js",
+    "has": [],
+    "raw": 17031,
+    "gzip": 5951,
+    "brotli": 5220
+   },
+   {
+    "url": "/_next/static/chunks/34uqsrl4pyat4.js",
+    "has": [],
+    "raw": 298,
+    "gzip": 247,
+    "brotli": 195
+   },
+   {
+    "url": "/_next/static/chunks/0g96t7qjlj9ox.js",
+    "has": [],
+    "raw": 14000,
+    "gzip": 3510,
+    "brotli": 3137
+   },
+   {
+    "url": "/_next/static/chunks/turbopack-2u1d16houkiyo.js",
+    "has": [],
+    "raw": 9974,
+    "gzip": 3905,
+    "brotli": 3484
+   },
+   {
+    "url": "/_next/static/chunks/0yl8ywiphjhzi.js",
+    "has": [
+     "react-dom"
+    ],
+    "raw": 186791,
+    "gzip": 49612,
+    "brotli": 41825
+   },
+   {
+    "url": "/_next/static/chunks/1rikqmm_9jd5q.js",
+    "has": [
+     "react-dom",
+     "next"
+    ],
+    "raw": 229289,
+    "gzip": 71592,
+    "brotli": 61270
+   }
+  ],
+  "raw": 457383,
+  "gzip": 134817,
+  "brotli": 115131,
+  "html_raw": 5695,
+  "html_gzip": 1809
+ }
+}
